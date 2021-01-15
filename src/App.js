@@ -12,7 +12,7 @@ export default function App() {
         <p className="col-blue">Flex 2</p>
         <p className="col-yellow">Flex 3</p>
       </div>
-      <div className="cursor">cursor</div>
+      <div className="cursor border-blue">cursor</div>
       <button className="background-gradient col-blue">button</button>
     </div>
   );
